@@ -18,26 +18,26 @@ Company practices
 
 ### [Git](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#git)
 
-*   [ ] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
-*   [ ] You review PRs carefully and leave your comments [:books:](https://www.pullrequest.com/blog/what-belongs-in-an-effective-code-review-checklist/)
-*   [ ] You add proper label in pull requests
-*   [ ] You create your branches under the proper folder (feature, fix, hotfix)
+*  -[X] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
+*   [X] You review PRs carefully and leave your comments [:books:](https://www.pullrequest.com/blog/what-belongs-in-an-effective-code-review-checklist/)
+*   [X] You add proper label in pull requests
+*   [X] You create your branches under the proper folder (feature, fix, hotfix)
 
 #### [GitHub](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#git-hub)
 
-*   [ ] You know how to create and reference issues
-*   [ ] You know how to verify when a build check failed
+*   [X] You know how to create and reference issues
+*   [X] You know how to verify when a build check failed
 
 #### [Bitbucket](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#bitbucket)
 
-*   [ ] You know how to verify when a build check failed
-*   [ ] You know how to reference a Jira ticket in your commit
+*   [X] You know how to verify when a build check failed
+*   [X] You know how to reference a Jira ticket in your commit
 
 ### [Communication](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#communication)
 
 #### [Email](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#email)
 
-*   [ ] You can configure local email client
+*   [X] You can configure local email client
 
 React
 -----
@@ -46,10 +46,10 @@ React is an open-source JavaScript library for building user interfaces. It is m
 
   
 
-*   [ ] You know how to write a function component. [:books:](https://www.robinwieruch.de/react-function-component#react-function-component-example)
-*   [ ] You know the difference between function and class components. [:books:](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108#:~:text=The%20most%20obvious%20one%20difference,which%20returns%20a%20React%20element.)
-*   [ ] You know how to define and modify local component's state. [:books:](https://reactjs.org/docs/faq-state.html)
-*   [ ] You know what Virtual DOM is and how React uses it to render components. [:books:](https://www.youtube.com/watch?v=RquK3TImY9U)
+*   [X] You know how to write a function component. [:books:](https://www.robinwieruch.de/react-function-component#react-function-component-example)
+*   [X] You know the difference between function and class components. [:books:](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108#:~:text=The%20most%20obvious%20one%20difference,which%20returns%20a%20React%20element.)
+*   [X] You know how to define and modify local component's state. [:books:](https://reactjs.org/docs/faq-state.html)
+*   [X] You know what Virtual DOM is and how React uses it to render components. [:books:](https://www.youtube.com/watch?v=RquK3TImY9U)
 *   [ ] You know how to use element events and how incorporate them in React lifecycle [:books:](https://stackoverflow.com/questions/29303456/reactjs-onclick-change-element/29304703#29304703)
 
 ### [Hooks](/Technical%20Stack/Frontend%20Developer/React.md#hooks)
