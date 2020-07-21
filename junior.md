@@ -18,7 +18,7 @@ Company practices
 
 ### [Git](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#git)
 
-*  -[X] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
+*   [X] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
 *   [X] You review PRs carefully and leave your comments [:books:](https://www.pullrequest.com/blog/what-belongs-in-an-effective-code-review-checklist/)
 *   [X] You add proper label in pull requests
 *   [X] You create your branches under the proper folder (feature, fix, hotfix)
@@ -50,89 +50,89 @@ React is an open-source JavaScript library for building user interfaces. It is m
 *   [X] You know the difference between function and class components. [:books:](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108#:~:text=The%20most%20obvious%20one%20difference,which%20returns%20a%20React%20element.)
 *   [X] You know how to define and modify local component's state. [:books:](https://reactjs.org/docs/faq-state.html)
 *   [X] You know what Virtual DOM is and how React uses it to render components. [:books:](https://www.youtube.com/watch?v=RquK3TImY9U)
-*   [ ] You know how to use element events and how incorporate them in React lifecycle [:books:](https://stackoverflow.com/questions/29303456/reactjs-onclick-change-element/29304703#29304703)
+*   [X] You know how to use element events and how incorporate them in React lifecycle [:books:](https://stackoverflow.com/questions/29303456/reactjs-onclick-change-element/29304703#29304703)
 
 ### [Hooks](/Technical%20Stack/Frontend%20Developer/React.md#hooks)
 
-*   [ ] You can use <code>useState</code> and <code>useEffect</code> hooks. [:books:](https://www.valentinog.com/blog/hooks/)
-*   [ ] You know how hook dependency array works. [:books:](https://medium.com/better-programming/understanding-the-useeffect-dependency-array-2913da504c44)
+*   [X] You can use <code>useState</code> and <code>useEffect</code> hooks. [:books:](https://www.valentinog.com/blog/hooks/)
+*   [X] You know how hook dependency array works. [:books:](https://medium.com/better-programming/understanding-the-useeffect-dependency-array-2913da504c44)
 
 Application state management
 ----------------------------
 
 ### [Redux](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux)
 
-*   [ ] You can describe full Redux flow [:books:](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
+*   [X] You can describe full Redux flow [:books:](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
 
 #### [react-redux](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#react-redux)
 
-*   [ ] You know how to apply selector functions to <code>useSelector</code> hook. [:books:](https://levelup.gitconnected.com/react-redux-hooks-useselector-and-usedispatch-f7d8c7f75cdd)
-*   [ ] You know how to dispatch actions from React component. [:books:](https://redux.js.org/basics/example)
+*   [X] You know how to apply selector functions to <code>useSelector</code> hook. [:books:](https://levelup.gitconnected.com/react-redux-hooks-useselector-and-usedispatch-f7d8c7f75cdd)
+*   [X] You know how to dispatch actions from React component. [:books:](https://redux.js.org/basics/example)
 
 ### [Selectors](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#selectors)
 
 #### [reselect](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#reselect)
 
-*   [ ] You know how to create a selector with <code>createSelector</code> function [:books:](https://medium.com/@pearlmcphee/selectors-react-redux-reselect-9ab984688dd4)
+*   [X] You know how to create a selector with <code>createSelector</code> function [:books:](https://medium.com/@pearlmcphee/selectors-react-redux-reselect-9ab984688dd4)
 
 ### [Side effects](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#side-effects)
 
-*   [ ] You understand the concept of side effects [:books:](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#:~:text=A%20side%20effect%20is%20any,the%20parent%20function%20scope%20chain)
+*   [X] You understand the concept of side effects [:books:](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#:~:text=A%20side%20effect%20is%20any,the%20parent%20function%20scope%20chain)
 
 #### [redux-saga](/Technical%20Stack/Frontend%20Developer/Application%20state%20management.md#redux-saga)
 
-*   [ ] You know how to take a side effect and dispatch an action based on it [:books:](https://redux-saga.js.org/docs/api/#putaction)
-*   [ ] You know how to select data from Redux state using selector functions inside sagas. [:books:](https://redux-saga.js.org/docs/api/#selectselector-args)
+*   [X] You know how to take a side effect and dispatch an action based on it [:books:](https://redux-saga.js.org/docs/api/#putaction)
+*   [X] You know how to select data from Redux state using selector functions inside sagas. [:books:](https://redux-saga.js.org/docs/api/#selectselector-args)
 
 Styling
 -------
 
 ### [CSS](/Technical%20Stack/Frontend%20Developer/Styling.md#css)
 
-*   [ ] You know how to write CSS rules [:books:](https://css-tricks.com/snippets/css/)
-*   [ ] You know how to apply basic styles to elements (colour, size, position, etc)
-*   [ ] You know how to display and properly scale images [:books:](https://css-tricks.com/aspect-ratio-boxes/)
-*   [ ] You know how to center an element horizontally and vertically [:books:](https://css-tricks.com/centering-css-complete-guide/)
+*   [X] You know how to write CSS rules [:books:](https://css-tricks.com/snippets/css/)
+*   [X] You know how to apply basic styles to elements (colour, size, position, etc)
+*   [X] You know how to display and properly scale images [:books:](https://css-tricks.com/aspect-ratio-boxes/)
+*   [X] You know how to center an element horizontally and vertically [:books:](https://css-tricks.com/centering-css-complete-guide/)
 
 #### [CSS in JS](/Technical%20Stack/Frontend%20Developer/Styling.md#css-in-js)
 
 ##### [styled-components](/Technical%20Stack/Frontend%20Developer/Styling.md#styled-components)
 
-*   [ ] You can apply global styles [:books:](https://www.robinwieruch.de/react-styled-components)
-*   [ ] You can create a styled component for a primitive element [:books:](https://styled-components.com/docs/basics#getting-started)
-*   [ ] You can extend styles of an existing component [:books:](https://styled-components.com/docs/basics#extending-styles)
+*   [X] You can apply global styles [:books:](https://www.robinwieruch.de/react-styled-components)
+*   [X] You can create a styled component for a primitive element [:books:](https://styled-components.com/docs/basics#getting-started)
+*   [X] You can extend styles of an existing component [:books:](https://styled-components.com/docs/basics#extending-styles)
 
 #### [Flexbox](/Technical%20Stack/Frontend%20Developer/Styling.md#flexbox)
 
 You can learn how to style HTML elements with flexbox by reading this awesome guide [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-*   [ ] You know how to use column and row layouts [:books:](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Mastering_Wrapping_of_Flex_Items#:~:text=Flexbox%20was%20designed%20as%20a,if%20flex%2Ddirection%20is%20column%20.)
-*   [ ] You know how to align children elements [:books:](https://flexboxfroggy.com/)
-*   [ ] You know how to stretch child element to the size of its parent [:books:](https://medium.com/@gaurav5430/css-flex-positioning-gotchas-child-expands-to-more-than-the-width-allowed-by-the-parent-799c37428dd6)
-*   [ ] You can properly use flex-basis and flex-wrap [:books:](https://css-tricks.com/almanac/properties/f/flex-wrap/)
+*   [X] You know how to use column and row layouts [:books:](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Mastering_Wrapping_of_Flex_Items#:~:text=Flexbox%20was%20designed%20as%20a,if%20flex%2Ddirection%20is%20column%20.)
+*   [X] You know how to align children elements [:books:](https://flexboxfroggy.com/)
+*   [X] You know how to stretch child element to the size of its parent [:books:](https://medium.com/@gaurav5430/css-flex-positioning-gotchas-child-expands-to-more-than-the-width-allowed-by-the-parent-799c37428dd6)
+*   [X] You can properly use flex-basis and flex-wrap [:books:](https://css-tricks.com/almanac/properties/f/flex-wrap/)
 
 ### [UI Kits](/Technical%20Stack/Frontend%20Developer/Styling.md#ui-kits)
 
-*   [ ] You understand basics of at least one of the UI Kit libraries [:books:](https://material-ui.com/getting-started/installation/)
+*   [X] You understand basics of at least one of the UI Kit libraries [:books:](https://material-ui.com/getting-started/installation/)
 
 Date & Time
 -----------
 
-*   [ ] You know how to create a Date object for a specific date [:books:](https://www.digitalocean.com/community/tutorials/understanding-date-and-time-in-javascript)
+*   [X] You know how to create a Date object for a specific date [:books:](https://www.digitalocean.com/community/tutorials/understanding-date-and-time-in-javascript)
 
 Routing
 -------
 
 ### [react-router](/Technical%20Stack/Frontend%20Developer/Routing.md#react-router)
 
-*   [ ] You can create a simple route structure using Switch and Route [:books:](https://reacttraining.com/blog/react-router-v5-1/)
-*   [ ] You know how to add parameters to a route, and make them required or optional [:books:](https://scotch.io/courses/using-react-router-4/route-params)
-*   [ ] You know how to match exactly the route needed [:books:](https://stackoverflow.com/questions/49162311/react-difference-between-route-exact-path-and-route-path)
-*   [ ] You know how to render 404 pages [:books:](https://ui.dev/react-router-v4-handling-404-pages/)
+*   [X] You can create a simple route structure using Switch and Route [:books:](https://reacttraining.com/blog/react-router-v5-1/)
+*   [X] You know how to add parameters to a route, and make them required or optional [:books:](https://scotch.io/courses/using-react-router-4/route-params)
+*   [x] You know how to match exactly the route needed [:books:](https://stackoverflow.com/questions/49162311/react-difference-between-route-exact-path-and-route-path)
+*   [x] You know how to render 404 pages [:books:](https://ui.dev/react-router-v4-handling-404-pages/)
 
 ### [react-router-dom](/Technical%20Stack/Frontend%20Developer/Routing.md#react-router-dom)
 
-*   [ ] You know how to use basic components - Link, NavLink [:books:](https://www.codementor.io/@packt/using-the-link-and-navlink-components-to-navigate-to-a-route-rieqipp42)
+*   [x] You know how to use basic components - Link, NavLink [:books:](https://www.codementor.io/@packt/using-the-link-and-navlink-components-to-navigate-to-a-route-rieqipp42)
 
 Animations
 ----------
@@ -142,7 +142,7 @@ Animations
 Audio and Video
 ---------------
 
-*   [ ] You know how to use standard HTML Audio and Video tags
+*   [x] You know how to use standard HTML Audio and Video tags
 
 Development Tools
 -----------------
@@ -151,23 +151,23 @@ Development Tools
 
 #### [Yarn](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#yarn)
 
-*   [ ] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/yarn)
+*   [x] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/yarn)
 
 #### [NPM](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#npm)
 
-*   [ ] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/npm)
+*   [x] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/npm)
 
 ### [Generators](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#generators)
 
 #### [create-react-app](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#create-react-app)
 
-*   [ ] You can generate a new app using create-react-app cli [:books:](https://create-react-app.dev/docs/getting-started/#creating-an-app)
+*   [x] You can generate a new app using create-react-app cli [:books:](https://create-react-app.dev/docs/getting-started/#creating-an-app)
 
 ### [React](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#react)
 
 #### [redux-devtools](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#redux-devtools)
 
-*   [ ] You use redux-devtools to see the current state and play with the state change history [:books:](https://reactjs.org/docs/typechecking-with-proptypes.html)
+*   [x] You use redux-devtools to see the current state and play with the state change history [:books:](https://reactjs.org/docs/typechecking-with-proptypes.html)
 
 HTTP
 ----
@@ -176,11 +176,11 @@ HTTP
 
 #### [Axios](/Technical%20Stack/Frontend%20Developer/HTTP.md#axios)
 
-*   [ ] You know how to use axios to send HTTP request to an API endpoint [:books:](https://github.com/apptension/cra-template-apptension/blob/master/template/src/modules/users/users.sagas.ts)
+*   [x] You know how to use axios to send HTTP request to an API endpoint [:books:](https://github.com/apptension/cra-template-apptension/blob/master/template/src/modules/users/users.sagas.ts)
 
 #### [fetch](/Technical%20Stack/Frontend%20Developer/HTTP.md#fetch)
 
-*   [ ] You know how to create an HTTP request using native <code>fetch</code> [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+*   [x] You know how to create an HTTP request using native <code>fetch</code> [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
 Tools
 -----
@@ -189,8 +189,8 @@ Tools
 
 #### [Figma](/Technical%20Stack/Frontend%20Developer/Tools.md#figma)
 
-*   [ ] You know how to extract style values (geometry, colours, fonts, etc.) from a design project [:books:](https://www.figma.com/resources/assets/developer-onboarding-guide/)
-*   [ ] You know how to extract image assets from a design project
+*   [x] You know how to extract style values (geometry, colours, fonts, etc.) from a design project [:books:](https://www.figma.com/resources/assets/developer-onboarding-guide/)
+*   [x] You know how to extract image assets from a design project
 
 #### [Zeplin](/Technical%20Stack/Frontend%20Developer/Tools.md#zeplin)
 
@@ -200,7 +200,7 @@ Tools
 Browsers
 --------
 
-*   [ ] You know what DOM is [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+*   [x] You know what DOM is [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 * * *
 
