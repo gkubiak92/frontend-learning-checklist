@@ -22,49 +22,49 @@ Company practices
 
 ### [Git](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#git)
 
-*   [ ] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
-*   [ ] You squash merge your pull requests [:books:](https://blog.pairworking.com/why-you-should-care-about-squash-and-merge-in-git-675856bf66b0)
-*   [ ] You understand the pros and cons of git rebase vs git merge [:books:](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
-*   [ ] You name your commits properly [:books:](https://chris.beams.io/posts/git-commit/)
-*   [ ] You review PRs carefully and leave your comments [:books:](https://www.pullrequest.com/blog/what-belongs-in-an-effective-code-review-checklist/)
-*   [ ] You add proper label in pull requests
-*   [ ] You create your branches under the proper folder (feature, fix, hotfix)
+*   [X] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
+*   [X] You squash merge your pull requests [:books:](https://blog.pairworking.com/why-you-should-care-about-squash-and-merge-in-git-675856bf66b0)
+*   [X] You understand the pros and cons of git rebase vs git merge [:books:](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+*   [X] You name your commits properly [:books:](https://chris.beams.io/posts/git-commit/)
+*   [X] You review PRs carefully and leave your comments [:books:](https://www.pullrequest.com/blog/what-belongs-in-an-effective-code-review-checklist/)
+*   [X] You add proper label in pull requests
+*   [X] You create your branches under the proper folder (feature, fix, hotfix)
 
 #### [GitHub](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#git-hub)
 
-*   [ ] You know how to create and reference issues
+*   [ X You know how to create and reference issues
 *   [ ] You know how to verify when a build check failed
 *   [ ] You know how to create GitHub Wiki pages
 
 #### [Bitbucket](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#bitbucket)
 
-*   [ ] You know how to verify when a build check failed
-*   [ ] You know how to reference a Jira ticket in your commit
+*   [X] You know how to verify when a build check failed
+*   [X] You know how to reference a Jira ticket in your commit
 
 ### [Communication](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#communication)
 
 #### [Slack](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#slack)
 
-*   [ ] You know how to create groups and channels
-*   [ ] You use Slack statuses in line with company policy (remote working, vacationing, in a meeting, etc)
+*   [X] You know how to create groups and channels
+*   [X] You use Slack statuses in line with company policy (remote working, vacationing, in a meeting, etc)
 
 #### [Confluence](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#confluence)
 
-*   [ ] You know how to create Confluence pages
+*   [X] You know how to create Confluence pages
 
 #### [Small Improvements](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#small-improvements)
 
-*   [ ] You know how to create goals and mark them as complete
-*   [ ] You know how to give praise and add talk topics to a 1:1 meeting
+*   [X] You know how to create goals and mark them as complete
+*   [X] You know how to give praise and add talk topics to a 1:1 meeting
 
 #### [Jira](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#jira)
 
-*   [ ] You know how to create tickets and write comments
+*   [X] You know how to create tickets and write comments
 
 #### [Email](/Technical%20Stack/Frontend%20Developer/Company%20practices.md#email)
 
-*   [ ] You can configure email signatures
-*   [ ] You can configure local email client
+*   [X] You can configure email signatures
+*   [X] You can configure local email client
 
 React
 -----
@@ -73,25 +73,25 @@ React is an open-source JavaScript library for building user interfaces. It is m
 
   
 
-*   [ ] You know how to write a function component. [:books:](https://www.robinwieruch.de/react-function-component#react-function-component-example)
-*   [ ] You know the difference between function and class components. [:books:](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108#:~:text=The%20most%20obvious%20one%20difference,which%20returns%20a%20React%20element.)
-*   [ ] You know how to define and modify local component's state. [:books:](https://reactjs.org/docs/faq-state.html)
-*   [ ] You know what Virtual DOM is and how React uses it to render components. [:books:](https://www.youtube.com/watch?v=RquK3TImY9U)
-*   [ ] You know how to use element events and how incorporate them in React lifecycle [:books:](https://stackoverflow.com/questions/29303456/reactjs-onclick-change-element/29304703#29304703)
-*   [ ] You know component's lifecycle and know how to use each of the phases. [:books:](https://www.youtube.com/watch?v=m_mtV4YaI8c)
-*   [ ] You know Context API [:books:](https://reactjs.org/docs/context.html#reactcreatecontext)
-*   [ ] You can use refs to bind to a native DOM element and interact with it in component lifecycle [:books:](https://css-tricks.com/working-with-refs-in-react/)
-*   [ ] You understand concepts of higher order components and render functions, as well as their differences, pros and cons. [:books:](https://reactjs.org/docs/higher-order-components.html)
-*   [ ] You know how to prevent components from re-rendering. [:books:](https://hackernoon.com/redux-saga-tutorial-for-beginners-and-dog-lovers-aa69a17db645)
-*   [ ] You know how to reconcile global state with local component's state
-*   [ ] You know how and when to use portals. [:books:](https://blog.logrocket.com/learn-react-portals-by-example/)
+*   [X] You know how to write a function component. [:books:](https://www.robinwieruch.de/react-function-component#react-function-component-example)
+*   [X] You know the difference between function and class components. [:books:](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108#:~:text=The%20most%20obvious%20one%20difference,which%20returns%20a%20React%20element.)
+*   [X] You know how to define and modify local component's state. [:books:](https://reactjs.org/docs/faq-state.html)
+*   [X] You know what Virtual DOM is and how React uses it to render components. [:books:](https://www.youtube.com/watch?v=RquK3TImY9U)
+*   [X] You know how to use element events and how incorporate them in React lifecycle [:books:](https://stackoverflow.com/questions/29303456/reactjs-onclick-change-element/29304703#29304703)
+*   [X] You know component's lifecycle and know how to use each of the phases. [:books:](https://www.youtube.com/watch?v=m_mtV4YaI8c)
+*   [X] You know Context API [:books:](https://reactjs.org/docs/context.html#reactcreatecontext)
+*   [X] You can use refs to bind to a native DOM element and interact with it in component lifecycle [:books:](https://css-tricks.com/working-with-refs-in-react/)
+*   [X] You understand concepts of higher order components and render functions, as well as their differences, pros and cons. [:books:](https://reactjs.org/docs/higher-order-components.html)
+*   [X] You know how to prevent components from re-rendering. [:books:](https://hackernoon.com/redux-saga-tutorial-for-beginners-and-dog-lovers-aa69a17db645)
+*   [X] You know how to reconcile global state with local component's state
+*   [X] You know how and when to use portals. [:books:](https://blog.logrocket.com/learn-react-portals-by-example/)
 
 ### [Hooks](/Technical%20Stack/Frontend%20Developer/React.md#hooks)
 
-*   [ ] You can use <code>useState</code> and <code>useEffect</code> hooks. [:books:](https://www.valentinog.com/blog/hooks/)
-*   [ ] You know how hook dependency array works. [:books:](https://medium.com/better-programming/understanding-the-useeffect-dependency-array-2913da504c44)
-*   [ ] You understand pros and cons of using <code>useCallback</code> hook. [:books:](https://kentcdodds.com/blog/usememo-and-usecallback/)
-*   [ ] You know how to write a custom React hook. [:books:](https://reactjs.org/docs/hooks-custom.html)
+*   [X] You can use <code>useState</code> and <code>useEffect</code> hooks. [:books:](https://www.valentinog.com/blog/hooks/)
+*   [X] You know how hook dependency array works. [:books:](https://medium.com/better-programming/understanding-the-useeffect-dependency-array-2913da504c44)
+*   [X] You understand pros and cons of using <code>useCallback</code> hook. [:books:](https://kentcdodds.com/blog/usememo-and-usecallback/)
+*   [X] You know how to write a custom React hook. [:books:](https://reactjs.org/docs/hooks-custom.html)
 
 #### [react-use](/Technical%20Stack/Frontend%20Developer/React.md#react-use)
 
